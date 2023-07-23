@@ -23,7 +23,6 @@ body {
   align-items: center;
   column-gap: 10vw;
 }
-
 #image-div {
   flex: 1;
 }
